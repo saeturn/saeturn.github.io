@@ -1,2 +1,2 @@
 # my site
-hello
+hello, this repo only for test!
